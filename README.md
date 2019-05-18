@@ -10,6 +10,10 @@ Try to escape a 3-Dimensional maze using the arrow keys as guidance. Only one in
 ![][game-img]
 ![][mazefile-img]
 
+## Controls
+
+Use the arrow keys to rotate camera left/right and move back and forth. Use <alt> + arrow keys to move left/right/up/down
+
 ## Prerequisites
 
 Created using the following external jars to make a Java3D library
