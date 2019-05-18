@@ -36,7 +36,7 @@ Run Maze.jar in the root directory
 
 ## Meta
 
-*Authors:
+* Authors:
     * Zachary Reese
     * Jonathan Jones
     * Prince Enweani
