@@ -8,7 +8,7 @@ Try to escape a 3-Dimensional maze using the arrow keys as guidance. Only one in
 
 ## Controls
 
-Use the arrow keys to rotate camera left/right and move back and forth. Use <alt> + arrow keys to move left/right/up/down
+Use the arrow keys to rotate camera left/right and move back and forth. Use alt + arrow keys to move left/right/up/down
 
 ## Prerequisites
 
