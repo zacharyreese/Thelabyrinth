@@ -1,7 +1,7 @@
 # The Labyrinth
 > A Java3D maze game. 
 
-Try to escape a 3-Dimensional maze using the arrow keys as guidance. Only one input (arrow) is allowed at a time becuase every time that the user moves, the camera position is checked for collision (wall). If a user runs into a wall, a message is shwon and a sound effect is played. This was created as a final project for a Computer Graphics course (CSCI 5437). The maze is created using a text file, where the characters 'b' and 'c' refer to two different wall types, 's' is the starting position, and 'e' is the ending position. The game is won when either the 'e' character is reached or the player leaves the maze array.
+Try to escape a 3-Dimensional maze using the arrow keys as guidance. Only one input (arrow) is allowed at a time becuase every time that the user moves, the camera position is checked for collision (wall). If a user runs into a wall, a message is shown and a sound effect is played. This was created as a final project for a Computer Graphics course (CSCI 5437). The maze is created using a text file, where the characters 'b' and 'c' refer to two different wall types, 's' is the starting position, and 'e' is the ending position. The game is won when either the 'e' character is reached or the player leaves the maze array.
 
 ![][game-img]
 ![][mazefile-img]
